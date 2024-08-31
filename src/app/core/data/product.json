@@ -1,0 +1,74 @@
+[
+  {
+    "productName": "Nordic Chair",
+    "price": "500000",
+    "stock": "5",
+    "color": "green",
+    "description": "limited edition",
+    "discount": "",
+    "image": "assets/images/product-3.png"
+  },
+  {
+    "productName": "Nordic Chair",
+    "price": "500000",
+    "stock": "5",
+    "color": "brown white",
+    "description": "limited edition 1",
+    "discount": "",
+    "image": "assets/images/product-1.png"
+  },
+  {
+    "productName": "Kruzo Aero Chair",
+    "price": "400000",
+    "stock": "15",
+    "color": "silver",
+    "description": "limited edition",
+    "discount": "",
+    "image": "assets/images/product-2.png"
+  },
+  {
+    "productName": "Ergonomic Chair",
+    "price": "1000000",
+    "stock": "5",
+    "color": "green",
+    "description": "limited edition",
+    "discount": "",
+    "image": "assets/images/product-3.png"
+  },
+  {
+    "productName": "Nordic Chair",
+    "price": "500000",
+    "stock": "5",
+    "color": "green",
+    "description": "limited edition",
+    "discount": "",
+    "image": "assets/images/product-3.png"
+  },
+  {
+    "productName": "Nordic Chair",
+    "price": "500000",
+    "stock": "5",
+    "color": "brown white",
+    "description": "limited edition 1",
+    "discount": "",
+    "image": "assets/images/product-3.png"
+  },
+  {
+    "productName": "Kruzo Aero Chair",
+    "price": "400000",
+    "stock": "15",
+    "color": "silver",
+    "description": "limited edition",
+    "discount": "",
+    "image": "assets/images/product-2.png"
+  },
+  {
+    "productName": "Ergonomic Chair",
+    "price": "1000000",
+    "stock": "5",
+    "color": "green",
+    "description": "limited edition",
+    "discount": "",
+    "image": "assets/images/product-3.png"
+  }
+]
